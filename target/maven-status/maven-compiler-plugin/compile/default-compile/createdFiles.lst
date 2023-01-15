@@ -1,9 +1,9 @@
 br/com/tfpc3/repository/MarcaRepository.class
+br/com/tfpc3/domains/Veiculo.class
 br/com/tfpc3/domains/Marca.class
 br/com/tfpc3/Tfpc3Application.class
-br/com/tfpc3/repository/CarroRepository.class
 br/com/tfpc3/services/MarcaService.class
 br/com/tfpc3/resources/MarcaResources.class
-br/com/tfpc3/domains/Carro.class
-br/com/tfpc3/services/CarroService.class
-br/com/tfpc3/resources/CarroResources.class
+br/com/tfpc3/services/VeiculoService.class
+br/com/tfpc3/resources/VeiculoResources.class
+br/com/tfpc3/repository/VeiculoRepository.class
