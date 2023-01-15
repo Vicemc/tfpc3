@@ -1,0 +1,9 @@
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/domains/Marca.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/services/MarcaService.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/domains/Carro.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/Tfpc3Application.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/resources/CarroResources.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/repository/CarroRepository.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/repository/MarcaRepository.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/services/CarroService.java
+/home/vice/tfpc3/src/main/java/br/com/tfpc3/resources/MarcaResources.java
